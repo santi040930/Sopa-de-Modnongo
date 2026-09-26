@@ -37,6 +37,7 @@ section{
 }
 
 #galeria {
+    margin: auto;
     max-width: 700px;
     flex-direction: row;
     flex-wrap: wrap;
@@ -46,7 +47,7 @@ section{
 .imagen {
     border-radius: 15px;
     overflow: hidden;
-    
+
     height: 300px;
     flex-basis: 300px;
     flex-grow: 1;
